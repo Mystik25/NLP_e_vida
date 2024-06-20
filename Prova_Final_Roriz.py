@@ -1,5 +1,3 @@
-pip install -r requerimento.txt
-
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
